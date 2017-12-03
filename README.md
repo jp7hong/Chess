@@ -1,0 +1,1 @@
+The text based chess game for two players
